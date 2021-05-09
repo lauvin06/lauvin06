@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lauvindra
 - 👀 I’m interested in Machine Learning and Artificial Intelligence.
 - 🌱 I’m currently learning Python and OpenCV.
-- 💞️ I’m looking to work on my skill to be a Machine Learning Engineer.
+- 💞️ I’m working on my skills to become a Machine Learning Engineer.
 - 📫 How to reach me https://www.linkedin.com/in/lauvindra-raj.
 
 <!---
