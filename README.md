@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Lauvindra
+- I'm a Mechanical Engineering Graduate.
 - 👀 I’m interested in Machine Learning and Artificial Intelligence.
-- 🌱 I’m currently learning Python and OpenCV.
+- 🌱 Python and OpenCV self learner.
 - 💞️ I’m working on my skills to become a Machine Learning Engineer.
 - 📫 How to reach me https://www.linkedin.com/in/lauvindra-raj.
 
