@@ -2,7 +2,7 @@
 
 I am Lauvindra Raj
 
-I'm a Mechanical Engineering Graduate who have the passion towards technologies.I'm a Python and Machine Learning self learner. 
+I'm a Mechanical Engineering Graduate who have the passion towards technologies.I'm a Data Science Intern who's exploring of Data Science and Machine Learning.Self Leaner XD.
 
 - 📫 How to reach me https://www.linkedin.com/in/lauvindra-raj.
 
