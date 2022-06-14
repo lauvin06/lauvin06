@@ -2,7 +2,7 @@
 
 I am Lauvindra Raj
 
-I'm a Mechanical Engineer who have the passion towards technologies and Data Science Intern who's exploring the world of Data Science and Machine Learning.Self Leaner :wink:.
+I'm a Data Scientist/Mechanical Engineer who have the passion towards technologies and Data Science Intern who's exploring the world of Data Science and Machine Learning.Self Leaner :wink:.
 
 - 📫 How to reach me https://www.linkedin.com/in/lauvindra-raj.
 
